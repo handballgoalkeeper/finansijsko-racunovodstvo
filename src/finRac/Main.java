@@ -1,6 +1,5 @@
 package finRac;
 
-
 import finRac.gui.LogIn;
 
 
